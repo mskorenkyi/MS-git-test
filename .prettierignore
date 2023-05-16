@@ -1,0 +1,12 @@
+# Ignore artifacts:
+.gitlab
+.idea
+
+# Ignore all TypeScript declaration files
+*.d.ts
+
+# Ignore all markdown files
+*.md
+
+# Ignore all HTML files:
+*.html
